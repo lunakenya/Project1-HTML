@@ -30,11 +30,11 @@ Open a Web Browser: Launch your preferred web browser.
 ## DockerHub
 ### DockerHub Repository
 
-https://hub.docker.com/r/christopherpallo2000/cp-minimarket-frontend
+[https://hub.docker.com/r/luna28kenya412/my-html-app](https://hub.docker.com/r/luna28kenya412/my-html-app)
 
 Docker Pull Command
 ```sh
-docker pull christopherpallo2000/cp-minimarket-frontend
+docker pull luna28kenya412/my-html-app
 ```
 
 ## Evidences
